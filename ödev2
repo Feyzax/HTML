@@ -1,0 +1,55 @@
+<h1>FEYZA NUR AY</h1>
+<hr>
+<h2>HAKKIMDA</h2>
+<p>Herkese selam ben <strong>Feyza</strong>. İstanbulda yaşıyorum ve bu şehirden pek hoşlandığım söylenemez. 
+   Resim çizmeyi,
+   edebiyatı,
+   felsefeyi,
+   müziği,
+   filmleri ve dizileri,
+   yeni şeyler öğrenmeyi çok severim.</p>
+
+<h3>Sevdiğim bazı şeyler</h3>
+
+<ol>
+   <li>diziler</li>
+
+      <ul style="list-style-type:square">
+         <li>
+            <a href="https://www.imdb.com/title/tt0944947/" target="_blank">
+               game of thrones
+            </a>
+         </li>
+         <li>friends</li>
+         <li>dark</li>
+      </ul>
+
+   <li>filmler</li>
+
+      <ul style="list-style-type:square">
+         <li>
+            <a href="https://www.imdb.com/title/tt0253474/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520pianist"target="_blank">
+            the pianist
+            </a>
+         </li>
+         <li>star wars</li>
+      </ul>
+
+   <li>kitaplar</li>   
+
+      <ul style="list-style-type:square">
+         <li>
+            <a href="https://www.goodreads.com/book/show/19505000-s-r-a-fanus" target="_blank">
+               syliva plath-sırça fanus
+            </a>
+         </li>
+         <li>jostein gaarder-sofie'nin dünyası</li>
+         <li>dostoyevski-beyaz geceler</li>
+         <li>jane austen-gurur ve önyargı</li>
+         <li>george orwell-1984</li>  
+      </ul>
+   
+</ol>
+<h3>Game of thrones</h3>
+<img width=400 heigh=500 src="https://i.pinimg.com/1200x/be/8d/5b/be8d5b8b149232f62a0af00058117000.jpg" border="6" title="khaalesi'ye bayılırım">
+<p>Daenerys targaryen</p>
