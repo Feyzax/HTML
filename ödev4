@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FEYZA</title>
+</head>
+    <link rel="stylesheet" href="style/color.css">
+<body>
+    
+    
+    <h1 class="yazi"> TARİHE DAMGA VURAN KADINLAR</h1>
+       <p class="yazi2" >  &emsp;Tarih boyunca kadınlar, erkek egemen toplumların kalın duvarları arasında bile ışık olmayı başar-
+            <br>
+         dılar. Kimi zaman bilimde, kimi zaman sanatta, kimi zaman da gökyüzünde… Her biri, kendi
+            <br>
+        çağının sınırlarını aşarak “imkânsız” denileni mümkün kıldı.
+            <br>
+            <br>
+         &emsp;Marie Curie, bilim dünyasında kadınlara yer olmadığı söylenen bir dönemde iki Nobel Ödülü kaza-
+            <br>
+        kazanarak bilimin cinsiyeti olmadığını gösterdi.
+            <br>    
+        &emsp;Ada Lovelace, makinelerin sadece sayı hesaplamaktan fazlasını yapabileceğini öngörerek ilk 
+            <br>
+        bilgisayar programcısı olarak tarihe geçti.
+            <br>       
+        &emsp;Frida Kahlo, acılarını ve kırılganlığını resimlerinde bir güce dönüştürüp tüm dünyaya 
+            <br>
+        “sanatla iyileşmenin” ne demek olduğunu anlattı.
+            <br>        
+        &emsp;Virginia Woolf, kalemiyle kadınların sesi oldu; yazının ve düşüncenin özgürlüğünü savunarak
+            <br>
+        feminist edebiyatın temellerini attı.
+            <br>
+        &emsp;Sabiha Gökçen ise gökyüzünde sınır tanımayarak dünyanın ilk kadın savaş pilotu unvanıyla
+            <br>
+        cesaretin sembolü haline geldi.
+            <br>    <br>
+
+        &emsp;Onların her biri, kendi çağında bir direnişti.
+        Bugün biz, onların açtığı yolların üzerinde yürürken; 
+            <br>
+        cesaretin, zekânın ve kararlılığın cinsiyet tanımadığını bir kez daha hatırlıyoruz.Ve tıpkı onlar
+            <br>
+        gibi, kendi gökyüzümüzü keşfetmeye devam ediyoruz.</p>
+   
+        <a class="yazi-s"href="sabihaGökcen.html">SABİHA GÖKÇEN</a>
+        <a class="yazi-m" href="marieCurie.html">MARİE CURİE</a>
+        <a class="yazi-a"href="adaLovelace.html">ADA LOVELACE</a>
+        <a class="yazi-f" href="fridaKahlo.html">FRİDA KAHLO</a>
+        <a class="yazi-v" href="virginiaWoolf.html">VİRGİNİA WOOLF</a>
+
+        <img width="400" height="400" src="https://i.pinimg.com/736x/4d/69/7a/4d697ad05882009b39e58c320c4de1cc.jpg" alt="sabiha gökçen" class="konum0">
+        <img width="400" height="400" src="https://i.pinimg.com/736x/94/8f/13/948f133a2cddd43d10007e329c21b636.jpg" alt="marie curie" class="konum3">
+        <img width="600" height="500" src="https://cdn.britannica.com/31/187431-050-117E094C/Ada-Lovelace.jpg?w=300" alt="ada lovelace" class="konum4">
+        <img width="400" height="500" src="https://i.pinimg.com/1200x/ce/89/0f/ce890fe88120a5b800139ab3a7ec57ec.jpg" alt="frida kahlo" class="konum1">
+        <img width="400" height="500" src="https://i.pinimg.com/736x/c3/8f/22/c38f22471b959a8c71d4e5744f7cec79.jpg" alt="virginia woolf" class="konum2">
+        
+
+    
+    
+    
+
+    
+</body>
+</html>
